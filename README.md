@@ -2,9 +2,9 @@
 <h3 align="center">And, I am crazy about Software Engineering...</h3>
 
 
-- 🌱 I’m currently learning **Redis, Kafka, Message Queues**
+- 🌱 I’m currently learning **Redis, Message Queues, Kafka, Kubernetes**
 
-- 💬 Ask me about **MERN, Docker**, **AWS**
+- 💬 Ask me about **MERN, Docker, AWS**
 
 - 📫 How to reach me **priyanshu.sin13@gmail.com**
 
